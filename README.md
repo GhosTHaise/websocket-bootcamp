@@ -30,7 +30,7 @@ Start the server in watch mode (uses the `dev` script defined in `package.json`)
 npm run dev
 ```
 
-By default the server listens on the port configured inside `server.js` (change the port there if needed).
+By default the server listens on the port configured inside `server.js` : 8000 (change the port there if needed).
 
 ## Quick examples
 
