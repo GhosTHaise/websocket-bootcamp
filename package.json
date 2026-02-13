@@ -6,6 +6,8 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "node --watch ./src/index.ts",
+    "start" : "node ./src/index.ts",
     "demo-test" : "node --watch ./websocket-from-scratch/server.js"
   },
   "repository": {
